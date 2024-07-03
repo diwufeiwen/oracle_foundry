@@ -15,6 +15,10 @@ https://book.getfoundry.sh/
 
 ## Usage
 
+### 设计
+
+将用户输入和计算逻辑分离：提供注册计算逻辑接口，将注册用户、计算逻辑及id建立映射关系，具体见代码。
+
 ### Build
 
 ```shell
